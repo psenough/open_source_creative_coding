@@ -2,14 +2,14 @@
 Dump of links of open source tools used for creative coding / demoscene
 
 music trackers:
-https://schismtracker.org/
-https://16-bits.org/pt2.php
-https://milkytracker.org/
-https://openmpt.org/
-https://famistudio.org/
-https://tildearrow.org/furnace/
-https://www.julien-nevo.com/arkostracker/
-https://github.com/xiphonics/picoTracker
+* https://schismtracker.org/
+* https://16-bits.org/pt2.php
+* https://milkytracker.org/
+* https://openmpt.org/
+* https://famistudio.org/
+* https://tildearrow.org/furnace/
+* https://www.julien-nevo.com/arkostracker/
+* https://github.com/xiphonics/picoTracker
 
 size coding synths:
 https://github.com/vsariola/sointu
