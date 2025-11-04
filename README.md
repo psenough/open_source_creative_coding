@@ -92,3 +92,5 @@ text/code editors:
 * https://notepad-plus-plus.org/
 * https://neovim.io/
 * https://vscodium.com/
+
+thanks steffo, canmom, theron, bruce, wrighter, archydragon, gargaj, maali for additional suggestions
