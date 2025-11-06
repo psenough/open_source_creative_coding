@@ -46,6 +46,7 @@ video:
 * https://www.openshot.org/
 
 engines/frameworks:
+* https://scratch.mit.edu/
 * https://processing.org/
 * https://tic80.com/
 * https://threejs.org/
